@@ -5,7 +5,7 @@ class IxoBlockchain < Formula
   desc "This is the IXO blockchain for the Impact Hub"
   homepage "https://ixo.world"
   url "https://github.com/ixofoundation/ixo-blockchain/releases/download/v0.18.0-rc1/ixod_darwin_amd64.tar.gz"
-  sha256 "f6260e172e3f2863350b50aac60a68a824745a08e753ccffae50afea0c6d3446"
+  sha256 "b73e267992aa954ab0507fea534ed0114ef658fe62e30c53e53f8e3b4558ad70"
   license "Apache-2.0"
 
   # depends_on "cmake" => :build
