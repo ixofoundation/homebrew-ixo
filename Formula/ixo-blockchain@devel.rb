@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class IxoBlockchainATDevel < Formula
+class IxoBlockchainATdevel < Formula
   desc "This is the IXO blockchain for the Impact Hub"
   homepage "https://ixo.world"
   url "https://github.com/ixofoundation/ixo-blockchain/releases/download/v0.18.0-rc1/ixod_darwin_amd64.tar.gz"
