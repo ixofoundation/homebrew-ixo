@@ -4,7 +4,7 @@
 class IxoBlockchain < Formula
   desc "This is the IXO blockchain for the Impact Hub"
   homepage ""
-  url "https://github.com/ixofoundation/ixo-blockchain/releases/download/v0.18.0-rc1/ixod_darwin_amd64"
+  url "https://github.com/ixofoundation/ixo-blockchain/releases/download/v0.18.0-rc1/ixod_darwin_amd64.tar.gz"
   sha256 "f6260e172e3f2863350b50aac60a68a824745a08e753ccffae50afea0c6d3446"
   license "Apache-2.0"
 
