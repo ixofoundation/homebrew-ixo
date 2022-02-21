@@ -12,7 +12,7 @@ class IxoBlockchain < Formula
 
   livecheck do
     url "https://github.com/ixofoundation/ixo-blockchain/releases/download/"
-    regex(/href=.*?v?(\d+(?:\.\d+)+?(?:\-[a-zA-Z0-9]+?(?:\.[0-9]+)))\/ixo[a-zA-Z0-9-._]*/i)
+    regex(/href=.*?v?(\d+(?:\.\d+)+?(?:\-[a-zA-Z0-9]+?(?:\.[0-9]+)))\/ixo[a-zA-Z0-9\-._]*/i)
   end
     
   def install
